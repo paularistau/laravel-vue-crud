@@ -14,6 +14,7 @@ One CRUD operation to manage Contacts - create/edit/update/delete.
 - Create your database into http://localhost:8080/phpmyadmin with the env file DB_DATABASE name
 - Run __composer install__
 - Run __php artisan key:generate__
+- Run __php artisan congif:cache__
 - Run __php artisan migrate__
 - Run __php artisan passport:install__
 - Run __npm install__

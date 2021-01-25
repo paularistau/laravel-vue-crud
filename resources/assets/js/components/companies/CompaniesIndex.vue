@@ -1,11 +1,11 @@
 <template>
     <div>
         <div class="form-group">
-            <router-link :to="{name: 'createCompany'}" class="btn btn-success">Create new company</router-link>
+            <router-link :to="{name: 'createCompany'}" class="btn btn-success">Create new item</router-link>
         </div>
 
         <div class="panel panel-default">
-            <div class="panel-heading">Companies list</div>
+            <div class="panel-heading">Contacts list</div>
             <div class="panel-body">
                 <table class="table table-bordered table-striped">
                     <thead>

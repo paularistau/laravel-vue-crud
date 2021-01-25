@@ -6,7 +6,7 @@
         </div>
 
         <div class="panel panel-default">
-            <div class="panel-heading">Create new company</div>
+            <div class="panel-heading">Create new item</div>
             <div class="panel-body">
                 <form v-on:submit.prevent="saveForm()">
                     <div class="row">
